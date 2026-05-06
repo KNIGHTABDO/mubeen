@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+data/temp_test.wav
+data/*.mp3
+data/*.wav
+data/*.m4a
+data/temp_*
+models/ecapa-tdnn/*
+!models/ecapa-tdnn/README.md
