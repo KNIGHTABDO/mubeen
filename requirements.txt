@@ -1,0 +1,7 @@
+numpy
+torch
+librosa
+soundfile
+speechbrain
+faiss-cpu
+

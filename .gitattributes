@@ -1,2 +1,4 @@
 data/embeddings/*.index filter=lfs diff=lfs merge=lfs -text
 data/embeddings/*.json filter=lfs diff=lfs merge=lfs -text
+data/embeddings/reciters.index filter=lfs diff=lfs merge=lfs -text
+data/embeddings/reciters_meta.json filter=lfs diff=lfs merge=lfs -text
